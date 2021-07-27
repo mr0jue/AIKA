@@ -7,11 +7,8 @@
         "id": "2427054fb9000287",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "1aea08e997851dc4"
       },
@@ -19,11 +16,8 @@
         "id": "7634951e83adda85",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "1aea08e997851dc4"
       }
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +92,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7634951e83adda85",
+  "active": "2427054fb9000287",
   "lastOpenFiles": [
     "Untitled.md",
     "最优化问题/最优化问题.md",
