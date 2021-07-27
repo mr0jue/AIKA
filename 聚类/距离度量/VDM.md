@@ -1,0 +1,1 @@
+对无序属性可采用VDM(Value Difference Metric)[Stanfill and Waltz，1986].令m(w,a)表示在属性u上取值为a的样本数,m(w,a,i)表示在第i个样本簇中在属性u上取值为a的样本数，k为样本簇数，则属性W上两个离散值a与b之间的VDM距离为$VDM_p(a,b)=∑{i=1;k}|m(w,a,i)/m(w,a)-m(w,b,i)/m(w,b)|^p$.

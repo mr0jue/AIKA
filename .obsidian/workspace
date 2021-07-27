@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "be01d61d0bbbc4fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2427054fb9000287",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        },
+        "group": "1aea08e997851dc4"
+      },
+      {
+        "id": "7634951e83adda85",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1aea08e997851dc4"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49641f355bdf482d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3f40ac85aced74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2c6f9fd8c312408",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76569f3c80e1a491",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43c7783ff2bd8fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d569fde4541c7f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "959f2fe84885eeb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7634951e83adda85",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "最优化问题/最优化问题.md",
+    "连续优化.md",
+    "整数规划.md",
+    "约束优化问题.md",
+    "最优化问题.md",
+    "深度学习.md",
+    "制表符.md",
+    "神经网络.md",
+    "过度参数化.md"
+  ]
+}
