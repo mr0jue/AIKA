@@ -4,11 +4,11 @@ DBSCAN 全称'Density-Based Spatial Clustering of Application with Noise'，DBSC
 - ϵ-邻域：对$x_j\in D$，其ϵ-邻域包含样本集D中与$x_j$的距离不大于ϵ的样本，即$N_ϵ(x_j)={x_i\in D|dist(x_i，x_j)\leq ϵ}$;
 - 核心对象（core object）：若的ϵ-邻域至少包含MinPts个样本，即$|N_ϵ(x_j)|\geq MinPts$，则$x_j$是一个核心对象；
 - 密度直达（directly density-reachable）：若$x_j$位于$x_i$的ϵ-邻域中，且$x_i$是核心对象，则称$x_j$由$x_i$密度直达；
-#密度直达关系通常不满足对称性．
+*密度直达关系通常不满足对称性．*
 - 密度可达（density-reachable）：对$x_j$与$x_i$，若存在样本序列$p_1,p_2,...,p_n$，其中$p_1=x_i, p_n=x_j$且$p(i+1)$由$p(i)$密度直达，则称$x_j$由$x_i$密度可达；
-#密度可达关系满足直递性，但不满足对称性．
+*密度可达关系满足直递性，但不满足对称性．*
 - 密度相连（density-connected）：对$x_i$与$x_j$，若存在$x_k$使得$x_i$与$x_j$均由$x_k$密度可达，则称$x_i$与$x_j$密度相连．
-#密度相连关系满足对称性
+*密度相连关系满足对称性*
 - 簇：由密度可达关系导出的最大的密度相连样本集合．形式化地说，给定邻域参数（ϵ，MinPts），簇$C\subseteq D$是满足连接性和最大性的非空样本子集．
 -- 连接性（connectivity）：$x_i\in C,x_j\in C$ =>$x_i$与$x_j$密度相连
 -- 最大性（maximality）：$x_i\in C$, $x_j$由$x_i$a密度可达=>$x_j\in C$
