@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "聚类/DBSCAN.md",
+            "file": "深度学习.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -67,9 +66,9 @@
   },
   "active": "d9c1a5dca718f92d",
   "lastOpenFiles": [
-    "聚类/DBSCAN.md",
     "深度学习.md",
     "机器学习.md",
+    "聚类/DBSCAN.md",
     "工具/最优化问题/整数规划.md",
     "工具/最优化问题/最优化问题.md",
     "最优臂问题.md",
