@@ -1,1 +1,0 @@
-AdaDelta 算法[Zeiler, 2012] 也是 AdaGrad 算法的一个改进． 和 RMSprop 算法类似， AdaDelta 算法通过梯度平方的指数衰减移动平均来调整学习率． 此外，AdaDelta算法还引入了每次参数更新差值Δθ的平方的指数衰减权移动平均．

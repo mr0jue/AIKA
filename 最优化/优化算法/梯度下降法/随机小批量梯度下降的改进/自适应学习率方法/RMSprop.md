@@ -1,1 +1,0 @@
-RMSprop 算法是 Geoﬀ Hinton提出的一种自适应学习率的方法 [Tieleman et al., 2012]，可以在有些情况下避免 AdaGrad 算法中学习率不断单调下降以至于过早衰减的缺点
