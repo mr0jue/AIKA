@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c1a5dca718f92d",
+        "id": "815ebd707cacc206",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "深度学习.md",
+            "file": "时序差分学习方法.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e98ba9c7bff1fe2a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习/强化学习/动态规划算法.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<<<",
+                "query": "tag:#蒙特卡罗方法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,17 +77,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9c1a5dca718f92d",
+  "active": "e98ba9c7bff1fe2a",
   "lastOpenFiles": [
-    "深度学习.md",
-    "机器学习.md",
-    "聚类/DBSCAN.md",
-    "工具/最优化问题/整数规划.md",
-    "工具/最优化问题/最优化问题.md",
-    "最优臂问题.md",
-    "工具/最优化问题/最优化问题 1.md",
-    "工具/最优化问题/连续优化 1.md",
-    "工具/最优化问题/连续优化.md",
-    "工具/最优化问题/组合优化 1.md"
+    "学习/强化学习/动态规划算法.md",
+    "时序差分学习方法.md",
+    "学习/强化学习/值函数.md",
+    "Q学习.md",
+    "学习/强化学习/蒙特卡罗方法.md",
+    "学习/强化学习/基于值函数的学习方法.md",
+    "学习/强化学习/强化学习.md",
+    "人工智能.md",
+    "蒙特卡罗.md",
+    "学习/强化学习/策略.md"
   ]
 }
