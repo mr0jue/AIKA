@@ -9,20 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "时序差分学习方法.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e98ba9c7bff1fe2a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "学习/强化学习/动态规划算法.md",
+            "file": "学习/强化学习/强化学习.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#蒙特卡罗方法",
+                "query": "tag:#Q网络",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,17 +64,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e98ba9c7bff1fe2a",
+  "active": "815ebd707cacc206",
   "lastOpenFiles": [
-    "学习/强化学习/动态规划算法.md",
-    "时序差分学习方法.md",
-    "学习/强化学习/值函数.md",
-    "Q学习.md",
-    "学习/强化学习/蒙特卡罗方法.md",
-    "学习/强化学习/基于值函数的学习方法.md",
     "学习/强化学习/强化学习.md",
-    "人工智能.md",
-    "蒙特卡罗.md",
+    "学习/强化学习/策略梯度.md",
+    "Actor-Critic算法.md",
+    "学习/强化学习/Actor-Critic算法.md",
+    "学习/强化学习/深度Q网络.md",
+    "学习/强化学习/REINFORCE 算法.md",
+    "学习/强化学习/蒙特卡罗方法.md",
+    "回报.md",
+    "学习/强化学习/值函数.md",
     "学习/强化学习/策略.md"
   ]
 }
